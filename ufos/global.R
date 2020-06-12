@@ -6,6 +6,7 @@ library(DT)
 library(ggmap)
 library(rworldmap)
 library(lubridate)
+library(openair)
 
 
 ufos <- read.csv("./cleaned_scrubbed.csv") 
